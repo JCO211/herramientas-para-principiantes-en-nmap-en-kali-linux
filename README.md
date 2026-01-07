@@ -15,3 +15,9 @@ Si quieres que tu script de ayuda esté disponible desde cualquier carpeta (sin 
 Bash
 
 sudo cp ayuda_nmap.sh /usr/local/bin/ayuda-nmap
+
+Adjumto captura de como se ve
+
+<img width="1366" height="643" alt="Screenshot_2026-01-07_09_04_39" src="https://github.com/user-attachments/assets/19054a08-93d2-4415-946e-fac92f20a86a" />
+
+
